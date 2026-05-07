@@ -82,11 +82,15 @@ It is designed to manage clinic operations such as patient records, doctor detai
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo Youtube Video
 
-(Attach your 5-minute video link here)
+https://youtu.be/45qiTUvqVPo
 
 ---
+
+## **Github Repository link**
+https://github.com/TheSilentCompiler/Smart-Clinic-Management-System
+
 
 ## 👨‍💻 Developed By
 
