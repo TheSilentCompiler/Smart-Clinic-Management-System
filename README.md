@@ -50,12 +50,21 @@ It is designed to manage clinic operations such as patient records, doctor detai
 
 ---
 
-## ▶️ How to Run
-
-1. Import project into IntelliJ IDEA
-2. Setup MySQL database using provided SQL schema
-3. Update DB credentials in `DBConnection.java`
-4. Run `Main.java`
+▶️ Compilation & Execution
+Requirements
+JDK 17 (or the version used in your project)
+MySQL Server
+IntelliJ IDEA
+Steps
+Clone or download the project.
+Import the project into IntelliJ IDEA.
+Create the MySQL database using the provided SQL schema.
+Update database credentials in DBConnection.java.
+Build the project.
+Main Class
+Run:
+Main.java
+(Full package name if applicable: package_name.Main)
 
 ---
 
